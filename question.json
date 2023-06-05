@@ -1,7 +1,80 @@
 {
-  "category": "Cultura",
-  "question": "¿Qué ingredintes se necesitan para hacer una michelada?",
-  "options": ["Cerveza, lima/limón, sal, chile en polvo, salsa tipo inglesa, picante", "Cerveza, lima/limón y limon", "Cerveza, sal, tabasco y lima/limón"],
-  "answer": 0,
-  "explanation": "La michelada, originaria de México, nacida de la creatividad y el deseo de refrescar, se convirtió en una popular bebida que cautivó a los amantes de la cerveza con su combinación única de sabores y su espíritu festivo."
+  {
+    "category": "Cultura",
+    "question": "¿Qué ingredintes se necesitan para hacer una michelada?",
+    "options": ["Cerveza, lima/limón, sal, chile en polvo, salsa tipo inglesa, picante", "Cerveza, lima/limón y limon", "Cerveza, sal, tabasco y lima/limón"],
+    "answer": 0,
+    "explanation": "La michelada, originaria de México, nacida de la creatividad y el deseo de refrescar, se convirtió en una popular bebida que cautivó a los amantes de la cerveza con su combinación única de sabores y su espíritu festivo."
+  },
+  {
+    "category": "Historia",
+    "question": "¿Cuál fue el primer país en aprobar el sufragio femenino?",
+    "options": ["España", "Alemania", "Nueva Zelanda"],
+    "answer": 2,
+    "explanation": "En 1893 se aprobó en Nueva Zelanda el primer sufragio femenino sin restricciones, gracias al movimiento liderado por Kate Sheppard. De todos modos a las mujeres solo se les permitía votar pero no presentarse a elecciones."
+  },
+  {
+    "category": "Historia" ,
+    "question": "¿En qué año llegó el hombre a la Luna?" ,
+    "options": ["2023", "1969", "1810"],
+    "answer": 1,
+    "explanation": "El 20 de julio de 1969 la misión estadounidense Apolo 11 colocó a los primeros hombres en la Luna: el comandante Neil Armstrong y el piloto Edwin F. Aldrin."
+  },
+  {
+    "category": "Historia" ,
+    "question": "¿Qué importante batalla tuvo lugar en 1815?" ,
+    "options": ["Salamina", "Waterloo", "Leipzig"],
+    "answer": 1,
+    "explanation": "La batalla de Waterloo fue un combate que tuvo lugar el 18 de junio de 1815 en las proximidades de Waterloo, una población de la actual Bélgica situada a unos veinte kilómetros al sur de Bruselas, en el que se enfrentó el ejército francés, comandado por el emperador Napoleón Bonaparte, contra las tropas británicas, neerlandesas y alemanas, dirigidas por el duque de Wellington, y el ejército prusiano del mariscal de campo Gebhard von Blücher."
+  },
+  {
+    "category": "Geografía" ,
+    "question": "¿Cuál es el río más caudaloso del mundo?" ,
+    "options": ["Mississippi", "Amazonas", "Pilcomayo"],
+    "answer": 1,
+    "explanation": "El río Amazonas es el más caudaloso del mundo y el río más largo del mundo. En el estrecho de Óbidos, se ha medido un caudal de 216.000 metros cúbicos de agua por segundo. Además, cubre un área de 6.879.761 kilómetros cuadrados y contiene más agua que los ríos Nilo, Yangtsé y Misisipi juntos."
+  },
+  {
+    "category": "Geografía" ,
+    "question": "¿Dónde se encuentra la Casa Rosada?" ,
+    "options": ["Argentina", "India", "China"],
+    "answer": 0,
+    "explanation": "La Casa Rosada es la sede del Poder Ejecutivo de la República Argentina, y está ubicada en el centro-histórico de la ciudad capital federativa de Buenos Aires.1"
+  },
+  {
+    "category": "Ciencia" ,
+    "question": "¿Cuáles son las bases nitrogenadas del ADN?" ,
+    "options": ["Diciembre", "Agosto", "Noviembre"],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "category": "Cultura" ,
+    "question": "¿Cuál es la flor nacional de Japón?" ,
+    "options": ["Cerezo", "Rosa", "Tulipan"],
+    "answer": 0,
+    "explanation": "La flor del cerezo o «sakura» es la flor nacional y símbolo de Japón. Las frágiles flores que este contiene en la época del Hanabi,son el símbolo de lo bella que es la primavera."
+  },
+  {
+    "category": "Cine" ,
+    "question": "¿De qué planeta es Spock, el personaje de Star Trek?" ,
+    "options": ["Vulcano", "Neptuno", "Saturno"],
+    "answer": 0,
+    "explanation": "Spock es un personaje de la franquicia de ficción Star Trek.1​ Inicialmente interpretado por Leonard Nimoy en Star Trek: La serie original, es presentado sirviendo a bordo de la nave estelar USS Enterprise como oficial científico y primer oficial y luego como oficial al mando de dos iteraciones de la nave."
+  },
+  {
+    "category": "Deportes" ,
+    "question": "¿Qué deporte practicaba Michael Jordan?" ,
+    "options": ["Baloncesto", "Tenis", "Natación"],
+    "answer": 0,
+    "explanation": "La reputación de Michael Jordan como el mejor jugador de baloncesto de la historia rara vez se ha cuestionado. Fue votado cinco veces como el jugador más valioso del año de la NBA; ganó dos medallas de oro olímpicas; y llevó a los Chicago Bulls a seis campeonatos de la NBA."
+  },
+  {
+    "category": "Arte" ,
+    "question": "¿Con qué nombre firmaba Van Gogh sus obras?" ,
+    "options": ["Albert", "Vincent", "Robert"],
+    "answer": 1,
+    "explanation": "Vincent van Gogh (1853-1890) generalmente firmaba sus pinturas con su primer nombre Vincent."
+  }
+
 }
